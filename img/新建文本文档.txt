@@ -1,0 +1,6 @@
+html
+<a href="https://sm.ms/image/1wvm5xbcdMqiLrG" target="_blank"><img src="https://i.loli.net/2020/12/20/1wvm5xbcdMqiLrG.png" ></a>
+bbcode
+[url=https://sm.ms/image/1wvm5xbcdMqiLrG][img]https://i.loli.net/2020/12/20/1wvm5xbcdMqiLrG.png[/img][/url]
+markdown
+![background.png](https://i.loli.net/2020/12/20/1wvm5xbcdMqiLrG.png)
